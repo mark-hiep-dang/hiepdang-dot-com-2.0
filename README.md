@@ -1,13 +1,5 @@
-# Nikola Tesla Portfolio
-Nikola Tesla Portfolio is an Astro template built with of course Astro 5.7, React 19 and TailwindCSS 4
-
-![Nikola Tesla Astro Portfolio](/public/social-image.jpg "Nikola Tesla Portfolio")
-
-## Getting Started
-Clone Repository
-```sh
-git clone https://github.com/iann-mathaiya/nikola-tesla.git
-```
+# Hiep Dang Portfolio
+This page was built using the Nikola Tesla Portfolio, an Astro template built with Astro 5.7, React 19 and TailwindCSS 4
 
 Install Dependencies
 ```sh
